@@ -4,12 +4,12 @@
 # Please make sure that all your information is correct.
 
 # This is the port that the express server should listen on if it is not provided by process.env.PORT
-port: 80
+port: 8080
 
 # This is the server information needed to point the application to your Sign Console.
 server:
   # The host address to your Sign Console.
-  host:
+  host: https://tennessee.na1.echosign.com
 
   # DO NOT CHANGE THE FOLLOW TWO CONFIGURATION.
   # This is the endpoint
